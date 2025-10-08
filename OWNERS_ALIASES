@@ -1,0 +1,13 @@
+# See the OWNERS docs at https://go.k8s.io/owners
+
+aliases:
+  monitoring-reviewers:
+  - chrkl
+  - istvanballok
+  - rickardsjp
+  - vicwicker
+  monitoring-approvers:
+  - chrkl
+  - istvanballok
+  - rickardsjp
+  - vicwicker
