@@ -1,13 +1,21 @@
 # See the OWNERS docs at https://go.k8s.io/owners
 
 aliases:
-  monitoring-reviewers:
+  observability-reviewers:
   - chrkl
   - istvanballok
   - rickardsjp
   - vicwicker
-  monitoring-approvers:
+  - rrhubenov
+  - Bobi-Wan
+  - iypetrov
+  - nickytd
+  observability-approvers:
   - chrkl
   - istvanballok
   - rickardsjp
   - vicwicker
+  - rrhubenov
+  - Bobi-Wan
+  - iypetrov
+  - nickytd
